@@ -1,25 +1,25 @@
 {
-  data:
+  "data":
   [
     {
-      name: "coffeeestation",
-      id: 510655869
+      "name": "coffeeestation",
+      "id": 510655869
     },
     {
-      name: "we live in cities /meme/",
-      id: 538152185
+      "name": "we live in cities /meme/",
+      "id": 538152185
     },
     {
-      name: "Happier",
-      id: 504356765
+      "name": "Happier",
+      "id": 504356765
     },
     {
-      name: "5 Lofi hip-hop beats",
-      id: 508404503
+      "name": "5 Lofi hip-hop beats",
+      "id": 508404503
     },
     {
-      name: "lo-fi bookstore remix",
-      id: 497562742
+      "name": "lo-fi bookstore remix",
+      "id": 497562742
     }
   ]
 }
