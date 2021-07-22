@@ -7,5 +7,14 @@
       "format": "md"
     },
     "tags": ["blog", "others"]
+  },
+  {
+    "name": "Anoter Test Of Blog",
+    "description": "Another test of blog",
+    "file": {
+      "location": "test-relese.md",
+      "format": "md"
+    },
+    "tags": ["blog", "others"]
   }
 ]
