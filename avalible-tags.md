@@ -4,6 +4,7 @@ avalible tags avalible for use in the blogs
 - others
 - scratch
 - web
+- gamedev
 - animation
 - code
 - art
