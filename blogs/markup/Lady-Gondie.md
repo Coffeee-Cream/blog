@@ -1,4 +1,4 @@
 # Lady Gondie
-my name is __lady goondie__ because i am a __fighter__
+My name is **lady goondie** because I am a **fighter**
 
-they say 'please sleep kid, please sleep or else __lady goodie__'
+They say 'सो जाओ बच्चे, सो जाओ वरना लेडी गुंडी आ जाएगी'
