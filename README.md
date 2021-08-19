@@ -1,4 +1,2 @@
 # Coffeee Cream Blog
-Welcome to my blog, I am really happy to introduce you to my blog I hope you find some cool things here.
-
- Thanks for coming!
+Welcome to Coffeee Cream's Blog, I hope you find this place a good place to find interesting stuff written by me.
